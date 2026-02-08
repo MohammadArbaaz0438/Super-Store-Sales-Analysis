@@ -10,10 +10,9 @@ The objective of this project is to analyze the sales performance of a Super Sto
 - **Data Modeling:** Star Schema Implementation
 - **Forecasting:** Time Series Analysis for predictive insights
 
-## 📂 Project Structure
-- `Super Store Analysis.pbix`: Main Power BI source file.
-- [Download Full Analysis PDF](./Super%20Store%20Analysis%20Dashboard%20PDF.pdf): Exported report for quick reference.
-- `Dashboard_Screenshot.png`: Visual preview of the dashboard.
+## 📸 Dashboard Preview
+![Dashboard Preview](Dashboard_Screenshot.png) 
+*(Note: Please upload your dashboard screenshot to the repository and name it 'Dashboard_Screenshot.png' for the image to appear here.)*
 
 ## 📈 Key Insights (Business Impact)
 Based on the analysis, here are the primary findings:
@@ -22,8 +21,9 @@ Based on the analysis, here are the primary findings:
 3. **Product Leaders:** The **Consumer Segment** drives **48%** of total revenue, with **Phones and Chairs** being the most profitable sub-categories.
 4. **Predictive Analytics:** Implemented a **15-day Sales Forecast** to predict upcoming trends, allowing for better stock management.
 
-## 📸 Dashboard Preview
-![Dashboard Preview](Dashboard_Screenshot.png) 
+## 📂 Project Structure
+- `Super Store Analysis.pbix`: Main Power BI source file.
+- `Dashboard_Screenshot.png`: Visual preview of the dashboard.
 
 ## 📝 How to Use
 1. Clone this repository to your local machine.
