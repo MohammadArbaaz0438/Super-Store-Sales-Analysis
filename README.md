@@ -11,8 +11,7 @@ The objective of this project is to analyze the sales performance of a Super Sto
 - **Forecasting:** Time Series Analysis for predictive insights
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](Dashboard_Screenshot.png) 
-*(Note: Please upload your dashboard screenshot to the repository and name it 'Dashboard_Screenshot.png' for the image to appear here.)*
+![Dashboard Preview](SuperStore Analysis Dashboard Preview.png)
 
 ## 📈 Key Insights (Business Impact)
 Based on the analysis, here are the primary findings:
